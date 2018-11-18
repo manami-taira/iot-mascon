@@ -15,6 +15,9 @@ Almost source codes are released under the MIT License. But it will apply each l
 
 https://codezine.jp/article/corner/725
 
+IoTマスコンは、IoTクリスマスツリーをアレンジしたものになります。
+https://github.com/manami-taira/mqtt-xmas-tree-subscriber
+
 ## Sandbox使用時の注意点
 　
 - SandboxのURLである`iot.eclipse.org`は、あくまでもテスト目的のための MQTT Brokerです。もしテスト利用ではなく、恒久的に使用したい場合、Active MQなどの MQTT Brokerを別途準備してください。
